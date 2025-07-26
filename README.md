@@ -12,3 +12,7 @@ Today is Saturday
 # About Me
 
 I'm Yogi, i'm studying Engineering.
+
+## About College
+
+Name: Raghu Engineering College
